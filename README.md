@@ -13,9 +13,7 @@ El sistema permite realizar operaciones basicas de inventario y facturacion:
 
 Se puede correr en local facilmente usando el comando "python manage.py runserver" dentro de la carpeta raiz
 
-Username: admin
-Contraseña: admin
-
+Usuario y contraseña de prueba disponibles en la demo / a pedido.
 
 # Dependencias (con sus versiones):
 
